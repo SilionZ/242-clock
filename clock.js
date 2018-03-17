@@ -16,7 +16,7 @@ var img;  // Declare variable 'img'.
 
 function setup() {
   createCanvas(720, 400);
-  img = loadImage("assets/round.png");  // Load the image
+  img = loadImage("round.png");  // Load the image
 }
 
 function draw() {
